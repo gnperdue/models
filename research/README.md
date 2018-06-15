@@ -5,10 +5,6 @@ This folder contains machine learning models implemented by researchers in
 respective authors. To propose a model for inclusion, please submit a pull
 request.
 
-Currently, the models are compatible with TensorFlow 1.0 or later. If you are
-running TensorFlow 0.12 or earlier, please [upgrade your
-installation](https://www.tensorflow.org/install).
-
 ## Models
 
 -   [adversarial_crypto](adversarial_crypto): protecting communications with
@@ -43,6 +39,7 @@ installation](https://www.tensorflow.org/install).
 -   [lfads](lfads): sequential variational autoencoder for analyzing
     neuroscience data.
 -   [lm_1b](lm_1b): language modeling on the one billion word benchmark.
+-   [lm_commonsense](lm_commonsense): commonsense reasoning using language models.
 -   [maskgan](maskgan): text generation with GANs.
 -   [namignizer](namignizer): recognize and generate names.
 -   [neural_gpu](neural_gpu): highly parallel neural computer.
@@ -74,5 +71,7 @@ installation](https://www.tensorflow.org/install).
     summarization.
 -   [transformer](transformer): spatial transformer network, which allows the
     spatial manipulation of data within the network.
+-   [vid2depth](vid2depth): learning depth and ego-motion unsupervised from
+    raw monocular video.
 -   [video_prediction](video_prediction): predicting future video frames with
     neural advection.

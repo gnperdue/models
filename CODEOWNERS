@@ -14,6 +14,7 @@
 /research/differential_privacy/ @ilyamironov @ananthr
 /research/domain_adaptation/ @bousmalis @dmrd
 /research/gan/ @joel-shor
+/research/global_objectives/ @mackeya-google
 /research/im2txt/ @cshallue
 /research/inception/ @shlens @vincentvanhoucke
 /research/learned_optimizer/ @olganw @nirum
@@ -22,8 +23,10 @@
 /research/lexnet_nc/ @vered1986 @waterson
 /research/lfads/ @jazcollins @susillo
 /research/lm_1b/ @oriolvinyals @panyx0718
+/research/lm_commonsense/ @thtrieu
 /research/marco/ @vincentvanhoucke
 /research/maskgan/ @a-dai
+/research/morph_net/ @gariel-google
 /research/namignizer/ @knathanieltucker
 /research/neural_gpu/ @lukaszkaiser
 /research/neural_programmer/ @arvind2505
@@ -43,6 +46,7 @@
 /research/tensorrt/ @karmel
 /research/textsum/ @panyx0718 @peterjliu
 /research/transformer/ @daviddao
+/research/vid2depth/ @rezama
 /research/video_prediction/ @cbfinn
 /research/fivo/ @dieterichlawson
 /samples/ @MarkDaoust @lamberta
